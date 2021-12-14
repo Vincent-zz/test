@@ -1,8 +1,9 @@
 ### topic:
 # ***学习***
-### 自我介绍：
-##### Vincent-zz
-SJTU freshman，学了一个学期'cpp'的小爪巴  
+#### 自我介绍：
+*Vincent-zz*  
+
+SJTU freshman，学了一个学期`cpp`的入门级选手
 
 兴趣爱好：~唱，跳，rap，篮球~  
 
